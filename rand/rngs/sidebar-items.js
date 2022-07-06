@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["mock","Mock random number generator"]],"struct":[["OsRng","A random number generator that retrieves randomness from the operating system."],["SmallRng","A small-state, fast non-crypto PRNG"]]});
